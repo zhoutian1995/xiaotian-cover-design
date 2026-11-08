@@ -1,4 +1,0 @@
-interface:
-  display_name: "固定壁纸短视频封面"
-  short_description: "左侧大标题、右侧原图人物、清除旧字，不自动加品牌"
-  default_prompt: "使用 $zhuzi-cover-design，在我提供的固定壁纸上清除旧标题，只在左侧加入本条大标题，保留右侧人物和背景，不自动添加品牌字。"
